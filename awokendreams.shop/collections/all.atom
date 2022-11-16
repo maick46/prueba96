@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://awokendreams.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://awokendreams.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://awokendreams.shop/collections/all.atom"/>
+  <title>AwokenDreams</title>
+  <updated>2022-11-10T23:32:04-06:00</updated>
+  <author>
+    <name>AwokenDreams</name>
+  </author>
+  <entry>
+    <id>https://awokendreams.shop/products/8105331196069</id>
+    <published>2022-11-10T23:32:04-06:00</published>
+    <updated>2022-11-10T23:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/wake-up-and-dream-hoodie-grey"/>
+    <title>“WAKE UP AND DREAM” HOODIE GREY</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_952d6bd5-6740-4448-968f-9e4e2fc799e8.png?v=1668144728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Awoken Dreams “Wake Up And Dream” Hoodie Grey Color Available in Sizes S-2XL</p>
+<p>Fit is true to size/slightly over sized! </p>
+<p>Super nice quality soft blank hoodie with “wake up and dream” puff print lettering. </p>
+<p>The perfect hoodie for the fall season! </p>
+<p>Oversized Hood, Puff Print Lettering, Stitched Tag, Kangaroo pockets and more! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105331196069</id>
+      <title>SMALL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105331196069</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105331196069</id>
+      <title>LARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105331196069</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105331196069</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/8105330835621</id>
+    <published>2022-11-10T23:29:36-06:00</published>
+    <updated>2022-11-10T23:29:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/wake-up-and-dream-hoodie-green"/>
+    <title>“WAKE UP AND DREAM” HOODIE GREEN</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_aa1aacdb-36df-44f9-8596-2ef26b1c64f3.png?v=1668144580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Awoken Dreams “Wake Up And Dream” Hoodie Green Available in Sizes S-2XL</p>
+<p>Fit is true to size/slightly over sized! </p>
+<p>Super nice quality soft blank hoodie with “wake up and dream” puff print lettering. </p>
+<p>The perfect hoodie for the fall season! </p>
+<p>Oversized Hood, Puff Print Lettering, Stitched Tag, Kangaroo pockets and more! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330835621</id>
+      <title>SMALL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330835621</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330835621</id>
+      <title>LARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330835621</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330835621</id>
+      <title>2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/8105330540709</id>
+    <published>2022-11-10T23:27:34-06:00</published>
+    <updated>2022-11-10T23:27:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/wake-up-and-dream-hoodie-brown"/>
+    <title>“WAKE UP AND DREAM” HOODIE BROWN</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_9ba6d306-6ab5-4590-9c6a-4729ddc2cd20.png?v=1668144459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Awoken Dreams “Wake Up And Dream” Hoodie Brown Colorway Available in Sizes S-2XL</p>
+<p>Fit is true to size/slightly over sized! </p>
+<p>Super nice quality soft blank hoodie with “wake up and dream” puff print lettering. </p>
+<p>The perfect hoodie for the fall season! </p>
+<p>Oversized Hood, Puff Print Lettering, Stitched Tag, Kangaroo pockets and more! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330540709</id>
+      <title>SMALL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330540709</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330540709</id>
+      <title>LARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330540709</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330540709</id>
+      <title>2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/8105330081957</id>
+    <published>2022-11-10T23:24:03-06:00</published>
+    <updated>2022-11-10T23:24:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/wake-up-and-dream-cream-hoodie"/>
+    <title>“WAKE UP AND DREAM” CREAM HOODIE</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_622e8a9c-e532-4c58-9d0e-8e7f138db4a6.png?v=1668144247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Awoken Dreams “Wake Up And Dream” Hoodie Cream Available in Sizes S-2XL</p>
+<p>Fit is true to size/slightly over sized! </p>
+<p>Super nice quality soft blank hoodie with “wake up and dream” puff print lettering. </p>
+<p>The perfect hoodie for the fall season! </p>
+<p>Oversized Hood, Puff Print Lettering, Stitched Tag, Kangaroo pockets and more! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330081957</id>
+      <title>SMALL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330081957</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330081957</id>
+      <title>LARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330081957</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8105330081957</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/8008219295909</id>
+    <published>2022-09-16T18:03:38-05:00</published>
+    <updated>2022-09-16T18:03:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/la-shorts"/>
+    <title>“LA” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_4d26d4cd-d225-4808-ba65-1b49e8b6a500.png?v=1663369424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>LA Themed Design Purple/Gold</p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008219295909</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008219295909</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008219295909</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008219295909</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008219295909</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/8008216248485</id>
+    <published>2022-09-16T18:00:12-05:00</published>
+    <updated>2022-09-16T18:00:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/triple-swirl-shorts"/>
+    <title>“TRIPLE SWIRL” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_48e0de45-077d-4d89-9a07-d839a34dca86.png?v=1663369302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Colorful Themed Design Tri Color</p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008216248485</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008216248485</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008216248485</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008216248485</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/8008216248485</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7990879617189</id>
+    <published>2022-09-09T11:36:19-05:00</published>
+    <updated>2022-09-09T11:36:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/paisley-shorts"/>
+    <title>“PAISLEY” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_fa1a6548-6f18-4ba1-b3b3-ba4c276e343b.png?v=1662741385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>5.5 Inch Inseam With Pockets and Metal Aglets </p>
+<p>“PAISLEY” Print </p>
+<p>with classic Awoken Dreams Logo </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7990879617189</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7990879617189</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7990879617189</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7990879617189</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7990879617189</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986463178917</id>
+    <published>2022-09-07T14:54:03-05:00</published>
+    <updated>2022-09-07T14:54:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/patchwork-shorts"/>
+    <title>“PATCHWORK” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_75cf44fd-2103-42ed-a96c-6f23ba668fa4.png?v=1662659685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Patchwork Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986463178917</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986463178917</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986463178917</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986463178917</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986463178917</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986459246757</id>
+    <published>2022-09-07T14:52:42-05:00</published>
+    <updated>2022-09-07T14:52:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/maroon-rug-shorts"/>
+    <title>“MAROON RUG” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_cf156934-7089-4369-9f08-e7582f218208.png?v=1662580370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Rug Design with Maroon Colors</p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986459246757</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986459246757</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986459246757</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986459246757</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986459246757</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986458198181</id>
+    <published>2022-09-07T14:51:04-05:00</published>
+    <updated>2022-09-07T14:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/starry-night-shorts"/>
+    <title>“STARRY NIGHT” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_98a473ab-9abe-4809-b4d2-6eeb23614f2f.png?v=1662580272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Starry Nights</p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986458198181</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986458198181</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986458198181</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986458198181</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986458198181</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986455609509</id>
+    <published>2022-09-07T14:49:39-05:00</published>
+    <updated>2022-09-07T14:49:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/cream-rug-shorts"/>
+    <title>“CREAM RUG” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_f2cb7b99-36a7-4dd4-9e79-cc65f938a001.png?v=1662580189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Blue/Cream Rug Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986455609509</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986455609509</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986455609509</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986455609509</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986455609509</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986452136101</id>
+    <published>2022-09-07T14:46:54-05:00</published>
+    <updated>2022-09-07T14:46:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/defeated-shorts"/>
+    <title>“DEFEATED” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_3d8024b6-39de-4040-bab9-611331a424ea.png?v=1662580020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Angel Micheal Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986452136101</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986452136101</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986452136101</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986452136101</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986452136101</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986449121445</id>
+    <published>2022-09-07T14:45:28-05:00</published>
+    <updated>2022-09-07T14:45:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/slant-shorts"/>
+    <title>“SLANT” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_725345b7-3ea4-4db0-9287-5245ffe46127.png?v=1662579935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Slant Shorts Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986449121445</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986449121445</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986449121445</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986449121445</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986449121445</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986446598309</id>
+    <published>2022-09-07T14:44:10-05:00</published>
+    <updated>2022-09-07T14:44:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/haze-shorts"/>
+    <title>“HAZE” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_b3a7c55c-7cc5-4ca1-a2fd-9d10fe4e06d4.png?v=1662579857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Fade Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986446598309</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986446598309</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986446598309</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986446598309</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986446598309</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986445844645</id>
+    <published>2022-09-07T14:42:15-05:00</published>
+    <updated>2022-09-07T14:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/paint-shorts"/>
+    <title>“PAINT” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_1c2251a4-e843-498a-8082-9e0994dfe5aa.png?v=1662579742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Paint Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986445844645</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986445844645</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986445844645</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986445844645</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986445844645</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986442567845</id>
+    <published>2022-09-07T14:41:24-05:00</published>
+    <updated>2022-09-07T14:41:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/purple-swirl-shorts"/>
+    <title>“PURPLE SWIRL” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_137c39cf-5296-45a7-ace2-e29547692352.png?v=1662579689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Purple/White Swirl Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986442567845</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986442567845</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986442567845</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986442567845</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986442567845</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986440143013</id>
+    <published>2022-09-07T14:39:23-05:00</published>
+    <updated>2022-09-07T14:39:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/coral-basic-shorts"/>
+    <title>“CORAL” BASIC SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_10183e8c-6ae6-40cc-887f-344510301960.png?v=1662579568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Coral Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986440143013</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986440143013</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986440143013</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986440143013</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986440143013</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986434703525</id>
+    <published>2022-09-07T14:36:54-05:00</published>
+    <updated>2022-09-07T14:36:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/cream-maroon-basic-shorts"/>
+    <title>“CREAM/MAROON” BASIC SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_22a62b70-4015-4c78-bf54-a4a74cb3cf83.png?v=1662579420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Cream Design with a maroon logo </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986434703525</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986434703525</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986434703525</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986434703525</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986434703525</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986433982629</id>
+    <published>2022-09-07T14:35:17-05:00</published>
+    <updated>2022-09-07T14:35:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/olive-basic-shorts"/>
+    <title>“OLIVE” BASIC SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_08efb029-2b23-4e5f-bf90-33582701b69d.png?v=1662579321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Olive Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986433982629</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986433982629</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986433982629</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986433982629</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986433982629</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986386927781</id>
+    <published>2022-09-07T14:03:30-05:00</published>
+    <updated>2022-09-07T14:03:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/cotton-candy-shorts"/>
+    <title>“COTTON CANDY” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_e53b9e87-211a-4d36-b0c8-b8bea5387279.png?v=1662577416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Classic Blue Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986386927781</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986386927781</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986386927781</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986386927781</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986386927781</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986251071653</id>
+    <published>2022-09-07T12:31:33-05:00</published>
+    <updated>2022-09-07T12:31:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/lemonade-basic-shorts"/>
+    <title>“LEMONADE” BASIC SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_8c6965de-c5fd-4f82-bc31-6be449a9097d.png?v=1662571898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Pink/Yellow Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986251071653</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986251071653</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986251071653</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986251071653</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986251071653</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986250317989</id>
+    <published>2022-09-07T12:30:17-05:00</published>
+    <updated>2022-09-07T12:30:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/grey-day-basic-shorts"/>
+    <title>“GREY DAY” BASIC SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_2f06bc0e-897f-4838-8c7e-c842e00f792f.png?v=1662571823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Basic Grey/Black Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986250317989</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986250317989</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986250317989</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986250317989</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986250317989</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986246582437</id>
+    <published>2022-09-07T12:29:12-05:00</published>
+    <updated>2022-09-07T12:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/carpet-shorts"/>
+    <title>“CARPET” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_9d63de11-f645-4e47-ad89-7767541da57e.png?v=1662659704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Carpet Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986246582437</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986246582437</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986246582437</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986246582437</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986246582437</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7986245107877</id>
+    <published>2022-09-07T12:27:14-05:00</published>
+    <updated>2022-09-07T12:27:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/empire-shorts"/>
+    <title>“EMPIRE” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_5dbf6fed-b0a4-4656-8297-d849dacd1e6d.png?v=1662571639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Roman Empire Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986245107877</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986245107877</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986245107877</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986245107877</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7986245107877</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://awokendreams.shop/products/7983508979877</id>
+    <published>2022-09-06T13:18:32-05:00</published>
+    <updated>2022-09-06T13:18:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/products/santorini-shorts"/>
+    <title>“SANTORINI” SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>AwokenDreams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_ce52b204-924c-4cf1-bd5d-997d8280b858.png?v=1662495789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AwokenDreams<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>5.5 Inch Inseam Mesh Shorts</p>
+<p>Pockets/Laces With Metal Aglets</p>
+<p>Classic Awoken Dreams “AD” Logo </p>
+<p>Santorini Greece Design </p>
+<p>Fit Is True To Size!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7983508979877</id>
+      <title>SMALL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7983508979877</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7983508979877</id>
+      <title>LARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7983508979877</id>
+      <title>XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://awokendreams.shop/products/7983508979877</id>
+      <title>2XLARGE</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

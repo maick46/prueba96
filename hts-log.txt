@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Nov 2022 14:30:14 at https://awokendreams.shop/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://awokendreams.shop/ -O1 "C:\Users\Z rb\Desktop\si\prueba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:30:26	Error: 	"Not Found" (404) at link https://awokendreams.shop/POST (from https://awokendreams.shop/)
+14:30:26	Error: 	"Not Found" (404) at link https://awokendreams.shop/style.css (from https://awokendreams.shop/)
+14:31:35	Error: 	"Not Found" (404) at link https://awokendreams.shop/collections/POST (from https://awokendreams.shop/collections/all)
+14:31:41	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_8f0c612f-7aeb-4646-92e5-602453cdc17c_{width}x.png?v=1662486393 (from https://awokendreams.shop/collections/all)
+14:31:44	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_9d63de11-f645-4e47-ad89-7767541da57e_{width}x.png?v=1662659704 (from https://awokendreams.shop/collections/all)
+14:31:46	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_53fcdffa-5070-4942-874b-f956d2a45446_{width}x.png?v=1662487353 (from https://awokendreams.shop/collections/all)
+14:31:50	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_10183e8c-6ae6-40cc-887f-344510301960_{width}x.png?v=1662579568 (from https://awokendreams.shop/collections/all)
+14:31:53	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_e53b9e87-211a-4d36-b0c8-b8bea5387279_{width}x.png?v=1662577416 (from https://awokendreams.shop/collections/all)
+14:31:56	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_f2cb7b99-36a7-4dd4-9e79-cc65f938a001_{width}x.png?v=1662580189 (from https://awokendreams.shop/collections/all)
+14:31:59	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_22a62b70-4015-4c78-bf54-a4a74cb3cf83_{width}x.png?v=1662579420 (from https://awokendreams.shop/collections/all)
+14:32:01	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_5edc86f5-69bb-417f-9cd5-f46b3899e887_{width}x.png?v=1662486327 (from https://awokendreams.shop/collections/all)
+14:32:03	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_3d8024b6-39de-4040-bab9-611331a424ea_{width}x.png?v=1662580020 (from https://awokendreams.shop/collections/all)
+14:32:05	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_5dbf6fed-b0a4-4656-8297-d849dacd1e6d_{width}x.png?v=1662571639 (from https://awokendreams.shop/collections/all)
+14:32:07	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_2f06bc0e-897f-4838-8c7e-c842e00f792f_{width}x.png?v=1662571823 (from https://awokendreams.shop/collections/all)
+14:32:09	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_14f398e7-1275-43e8-ba78-672178287f55_{width}x.png?v=1662486221 (from https://awokendreams.shop/collections/all)
+14:32:37	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_b3a7c55c-7cc5-4ca1-a2fd-9d10fe4e06d4_{width}x.png?v=1662579857 (from https://awokendreams.shop/collections/all?page=2)
+14:32:40	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_4d26d4cd-d225-4808-ba65-1b49e8b6a500_{width}x.png?v=1663369424 (from https://awokendreams.shop/collections/all?page=2)
+14:32:43	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_8c6965de-c5fd-4f82-bc31-6be449a9097d_{width}x.png?v=1662571898 (from https://awokendreams.shop/collections/all?page=2)
+14:32:46	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_cf156934-7089-4369-9f08-e7582f218208_{width}x.png?v=1662580370 (from https://awokendreams.shop/collections/all?page=2)
+14:32:48	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_08efb029-2b23-4e5f-bf90-33582701b69d_{width}x.png?v=1662579321 (from https://awokendreams.shop/collections/all?page=2)
+14:32:50	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_1c2251a4-e843-498a-8082-9e0994dfe5aa_{width}x.png?v=1662579742 (from https://awokendreams.shop/collections/all?page=2)
+14:32:53	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_fa1a6548-6f18-4ba1-b3b3-ba4c276e343b_{width}x.png?v=1662741385 (from https://awokendreams.shop/collections/all?page=2)
+14:32:56	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_75cf44fd-2103-42ed-a96c-6f23ba668fa4_{width}x.png?v=1662659685 (from https://awokendreams.shop/collections/all?page=2)
+14:32:59	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_6c997fdb-f347-4fb1-84de-16dca822276a_{width}x.png?v=1662487367 (from https://awokendreams.shop/collections/all?page=2)
+14:33:01	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_137c39cf-5296-45a7-ace2-e29547692352_{width}x.png?v=1662579689 (from https://awokendreams.shop/collections/all?page=2)
+14:33:04	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_{width}x.png?v=1662435147 (from https://awokendreams.shop/collections/all?page=2)
+14:33:08	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_ce52b204-924c-4cf1-bd5d-997d8280b858_{width}x.png?v=1662495789 (from https://awokendreams.shop/collections/all?page=2)
+14:33:08	Error: 	"Not Found" (404) at link https://awokendreams.shop/blogs/POST (from https://awokendreams.shop/blogs/news)
+14:33:09	Error: 	"Not Found" (404) at link https://awokendreams.shop/account/POST (from https://awokendreams.shop/account/login)
+14:33:09	Error: 	"Not Found" (404) at link https://awokendreams.shop/products/POST (from https://awokendreams.shop/products/brown-shorts)
+14:33:11	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_6eac7135-4341-4105-a057-057760cb0ffc_{width}x.png?v=1662435167 (from https://awokendreams.shop/collections/all?page=3)
+14:33:14	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_725345b7-3ea4-4db0-9287-5245ffe46127_{width}x.png?v=1662579935 (from https://awokendreams.shop/collections/all?page=3)
+14:33:17	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_b05a0c95-b6e3-4a73-b9c3-e909fc503124_{width}x.png?v=1662435817 (from https://awokendreams.shop/collections/all?page=3)
+14:33:20	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_98a473ab-9abe-4809-b4d2-6eeb23614f2f_{width}x.png?v=1662580272 (from https://awokendreams.shop/collections/all?page=3)
+14:33:23	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_48e0de45-077d-4d89-9a07-d839a34dca86_{width}x.png?v=1663369302 (from https://awokendreams.shop/collections/all?page=3)
+14:33:25	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_622e8a9c-e532-4c58-9d0e-8e7f138db4a6_{width}x.png?v=1668144247 (from https://awokendreams.shop/collections/all?page=3)
+14:33:28	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_9ba6d306-6ab5-4590-9c6a-4729ddc2cd20_{width}x.png?v=1668144459 (from https://awokendreams.shop/collections/all?page=3)
+14:33:31	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_aa1aacdb-36df-44f9-8596-2ef26b1c64f3_{width}x.png?v=1668144580 (from https://awokendreams.shop/collections/all?page=3)
+14:33:35	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0505/5686/2629/products/image_952d6bd5-6740-4448-968f-9e4e2fc799e8_{width}x.png?v=1668144728 (from https://awokendreams.shop/collections/all?page=3)
+14:33:35	Error: 	"Not Found" (404) at link https://awokendreams.shop/blogs/news/POST (from https://awokendreams.shop/blogs/news/about-us)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 203 links scanned, 162 files written (80234916 bytes overall) [77333952 bytes received at 382841 bytes/sec], 5174227 bytes transferred using HTTP compression in 132 files, ratio 25%, 11.2 requests per connection
+(40 errors, 0 warnings, 0 messages)

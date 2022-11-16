@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://awokendreams.shop/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://awokendreams.shop/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://awokendreams.shop/blogs/news.atom"/>
+  <title>AwokenDreams - News</title>
+  <updated>2020-10-28T04:04:24-05:00</updated>
+  <author>
+    <name>AwokenDreams</name>
+  </author>
+  <entry>
+    <id>https://awokendreams.shop/blogs/news/about-us</id>
+    <published>2020-10-28T04:04:24-05:00</published>
+    <updated>2022-09-05T22:35:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://awokendreams.shop/blogs/news/about-us"/>
+    <title>About Me</title>
+    <author>
+      <name>Trevor Byron</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Awoken Dreams is an independently ran clothing brand based out of Florida</p>
+<p>My name is Trevor the owner of Awoken Kicks a premier sneaker storefront located in Panama City Florida. </p>
+<p>It has been a huge goal of mine to open up and start my own brand and it is finally coming to life. I wanted to create something that is in touch with todays style as well as be very interactive with my following through social media etc.</p>
+<p>You guys will help me every step of the way through various polls on IG to feedback and suggestions. Feel free to reach out to me on IG @awoken__dreams or my personal cell 850-348-1569 with any questions etc.</p>
+<p>I appreciate everyone who orders, looks, gives me a follow or even a like wouldn't be possible without you guys. Stay tuned for more designs and updates. </p>]]>
+    </content>
+  </entry>
+</feed>
